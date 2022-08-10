@@ -1,0 +1,16 @@
+[
+  {
+    "name": "test",
+    "path": "/test",
+    "component": "/Users/ryohei/develop/nuxt2-storybook/pages/test.vue",
+    "chunkName": "pages/test",
+    "_name": "_365b5741"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/ryohei/develop/nuxt2-storybook/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_a435679a"
+  }
+]
